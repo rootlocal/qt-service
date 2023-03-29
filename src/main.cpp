@@ -1,4 +1,4 @@
-#include "interactive.h"
+#include "service.h"
 
 // sc create "PluginService" binpath="c:\plugin.exe" start=auto
 // sc delete "PluginService"

@@ -1,4 +1,4 @@
-#include "interactive.h"
+#include "service.h"
 
 InteractiveService::InteractiveService(int argc, char **argv) : QtService<QCoreApplication>(argc, argv, SERVICE_NAME) {
     try {
