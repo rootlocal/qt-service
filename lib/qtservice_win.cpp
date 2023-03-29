@@ -1,6 +1,8 @@
 // Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
 // SPDX-License-Identifier: BSD-3-Clause
 
+#define UNICODE
+
 #include "qtservice.h"
 #include "qtservice_p.h"
 #include <QCoreApplication>
